@@ -1,4 +1,16 @@
 # WHSlib
+
+
+The Goals:
+* Have working `estimatePosition()` and `estimateHeading()`, which can properly use data from sensors (IMU, Vuforia, encoders) to accurately update the robot's x and y coordinates along with heading.
+* Have a working `driveToTarget()` which, given a target coordinate, can navigate to any coordinate on the field. 
+* Have prebuilt subsystem interfaces and classes, for better code modularity.
+
+
+(Longer Term) Goals:
+* PID control built in
+* Sensor filtering algorithms
+* Vision Processing using OpenCV
 # ftc_app
 FTC Android Studio project to create FTC Robot Controller app.
 
