@@ -10,7 +10,9 @@ The Goals:
 (Longer Term) Goals:
 * PID control built in
 * Sensor filtering algorithms
-* Vision Processing using OpenCV
+* Vision Processing using [OpenCV](https://github.com/GTHSRobotics/DogeCV) or [Machine Learning](https://github.com/kerrj/yoloparser)
+* Motion profiling, using [Pathfinder](https://github.com/JacisNonsense/Pathfinder)
+* Support for non-tank drive (mecanum, serve?)
 # ftc_app
 FTC Android Studio project to create FTC Robot Controller app.
 
